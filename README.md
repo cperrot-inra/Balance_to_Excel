@@ -16,14 +16,7 @@
 * Ouvrir excel en mode administrateur
 * A chaque appui sur la touche PRINT de la balance, la donnée doit s'afficher dans la case du fichier Excel
 
-*Exemple paramètres d'une balance
-Com : COM1
-Baudrate : 1200
-Parity : N (E ou O ou N pour Even ou Odd ou None)
-Stopbits : 1
-Timeout : 1
-Xonxoff : 0
-Rtscts : 0
+*Exemple paramètres d'une balance : Com = COM1, Baudrate = 1200, Parity = N (None/Even/Odd), Stopbits = 1, Timeout = 1, Xonxoff = 0, Rtscts = 0
 
 ## Programmation
 * Python 2.7 - PyQt4 - cx_Freeze pour générer l'exécutable
