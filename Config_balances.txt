@@ -1,0 +1,10 @@
+[BAL]
+port = COM15
+baudrate = 1200
+bytesize = 7
+parity = O
+stopbits = 1
+timeout = 1
+xonxoff = 0
+rtscts = 0
+
