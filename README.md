@@ -4,10 +4,11 @@
 
 ## Prérequis
 * Windows 7+
+* Balance de laboratoire équipée d'une connectique permettant d'envoyer une trame de donnée sur un PC (testé sur des balances Sartorius, Mettler Toledo et Precisa)
+* Balance programmable pour envoyer automatiquement une pesée à intervalle régulier
 
 ## Installation
 * Exécuter **/Installer/Output/Install_Interface Balances - Excel.exe**
-* Balance de laboratoire équipée d'une connectique permettant d'envoyer une trame de donnée sur un PC (testé sur des balances Sartorius et Mettler Toledo)
 
 ## Utilisation
 * Ouvrir le logiciel en mode administrateur
