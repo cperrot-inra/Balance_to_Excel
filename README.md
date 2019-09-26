@@ -16,7 +16,7 @@
 * Ouvrir excel en mode administrateur
 * A chaque appui sur la touche PRINT de la balance, la donnée doit s'afficher dans la case du fichier Excel
 
-* Exemple paramètres d'une balance
+*Exemple paramètres d'une balance
 Com : COM1
 Baudrate : 1200
 Parity : N (E ou O ou N pour Even ou Odd ou None)
